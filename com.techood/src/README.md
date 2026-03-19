@@ -2,7 +2,7 @@
 
 - Aluna: Amanda Salvador
 - UC: Arquitetura de Sistemas
-- Docente: Lucas Souza dos Santos
+- Docente: Lucas Sousa dos Santos
 - Data: 19/03/2026
 
 ## Descrição
